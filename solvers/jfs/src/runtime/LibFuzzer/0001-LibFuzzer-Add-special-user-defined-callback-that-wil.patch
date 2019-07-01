@@ -1,0 +1,77 @@
+From bec17a157ffe52da9966d908ed0471085af2f3b6 Mon Sep 17 00:00:00 2001
+From: REDACTED
+Date: Mon, 29 Jan 2018 09:40:18 +0000
+Subject: [PATCH] [LibFuzzer] Add special user defined callback that will be
+ called when LibFuzzer exits.
+
+---
+ runtime/LibFuzzer/Fuzzer/FuzzerExtFunctions.def | 1 +
+ runtime/LibFuzzer/Fuzzer/FuzzerLoop.cpp         | 9 +++++++++
+ runtime/LibFuzzer/README-JFS.md                 | 5 ++++-
+ 3 files changed, 14 insertions(+), 1 deletion(-)
+
+diff --git a/runtime/LibFuzzer/Fuzzer/FuzzerExtFunctions.def b/runtime/LibFuzzer/Fuzzer/FuzzerExtFunctions.def
+index 25a655b..67048a5 100644
+--- a/runtime/LibFuzzer/Fuzzer/FuzzerExtFunctions.def
++++ b/runtime/LibFuzzer/Fuzzer/FuzzerExtFunctions.def
+@@ -24,6 +24,7 @@ EXT_FUNC(LLVMFuzzerCustomCrossOver, size_t,
+           const uint8_t * Data2, size_t Size2,
+           uint8_t * Out, size_t MaxOutSize, unsigned int Seed),
+          false);
++EXT_FUNC(LLVMFuzzerAtExit, void, (), false);
+ 
+ // Sanitizer functions
+ EXT_FUNC(__lsan_enable, void, (), false);
+diff --git a/runtime/LibFuzzer/Fuzzer/FuzzerLoop.cpp b/runtime/LibFuzzer/Fuzzer/FuzzerLoop.cpp
+index 5b451ca..2a44417 100644
+--- a/runtime/LibFuzzer/Fuzzer/FuzzerLoop.cpp
++++ b/runtime/LibFuzzer/Fuzzer/FuzzerLoop.cpp
+@@ -237,6 +237,9 @@ void Fuzzer::CrashCallback() {
+   Printf("SUMMARY: libFuzzer: deadly signal\n");
+   DumpCurrentUnit("crash-");
+   PrintFinalStats();
++  if (EF->LLVMFuzzerAtExit) {
++    EF->LLVMFuzzerAtExit();
++  }
+   _Exit(Options.ErrorExitCode); // Stop right now.
+ }
+ 
+@@ -249,6 +252,9 @@ void Fuzzer::ExitCallback() {
+   Printf("SUMMARY: libFuzzer: fuzz target exited\n");
+   DumpCurrentUnit("crash-");
+   PrintFinalStats();
++  if (EF->LLVMFuzzerAtExit) {
++    EF->LLVMFuzzerAtExit();
++  }
+   _Exit(Options.ErrorExitCode);
+ }
+ 
+@@ -262,6 +268,9 @@ void Fuzzer::MaybeExitGracefully() {
+ void Fuzzer::InterruptCallback() {
+   Printf("==%lu== libFuzzer: run interrupted; exiting\n", GetPid());
+   PrintFinalStats();
++  if (EF->LLVMFuzzerAtExit) {
++    EF->LLVMFuzzerAtExit();
++  }
+   _Exit(0); // Stop right now, don't perform any at-exit actions.
+ }
+ 
+diff --git a/runtime/LibFuzzer/README-JFS.md b/runtime/LibFuzzer/README-JFS.md
+index a3d5d94..f83587a 100644
+--- a/runtime/LibFuzzer/README-JFS.md
++++ b/runtime/LibFuzzer/README-JFS.md
+@@ -7,7 +7,10 @@ This is at
+ SVN: r321544
+ git-svn: 803a9a0208b46cff21135c1a81b53b2b6cc54ea6
+ 
++but it is patched with features that JFS needs. We should
++upstream these at some point.
++
+ # Why are you embedding your own copy!? You MONSTER!
+ 
+-This is an early research project. We may need to modify
++This is an early research project. We needed to modify
+ LibFuzzer to suit our needs.
+-- 
+2.16.2
+

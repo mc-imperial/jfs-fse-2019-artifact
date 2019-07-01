@@ -1,0 +1,9 @@
+.dockerignore
+# Pass `.git` directory so that
+# `jfs --version` gives git hash.
+#.git
+**/.*.swp
+**/*.Dockerfile
+scripts/Dockerfiles/*.patched
+scripts/Dockerfiles/build.sh
+utils/SMT-COMP

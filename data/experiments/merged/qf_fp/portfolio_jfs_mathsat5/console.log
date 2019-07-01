@@ -1,0 +1,1964 @@
+INFO:MainThread: Loading "/home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml"
+INFO:MainThread: Loading done
+INFO:MainThread: Loading "/home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml"
+INFO:MainThread: Loading done
+WARNING:MainThread: There were rejected result infos
+WARNING:MainThread: Index 0 had 0 rejections
+WARNING:MainThread: Index 1 had 0 rejections
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/Newlib-BadKrozingenChallenge-Oversimplified.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.36775594859411, 3.575271381, 4.78278681340589)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (8.938326075926087, 9.3514074315, 9.764488787073914)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/Newlib-BadKrozingenChallenge-Oversimplified.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/Newlib-BadKrozingenChallenge-Oversimplified.smt2" : [[(2.36775594859411, 3.575271381, 4.78278681340589)], [(8.938326075926087, 9.3514074315, 9.764488787073914)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/cos_polynomial_true-unreach-call.c_9.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.48403068907235935, 2.48725205675, 5.458534802572359)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.02726541320510098, 0.09015114625000001, 0.207567705705101)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/cos_polynomial_true-unreach-call.c_9.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/cos_polynomial_true-unreach-call.c_9.smt2" : [[(-0.02726541320510098, 0.09015114625000001, 0.207567705705101), (-0.48403068907235935, 2.48725205675, 5.458534802572359)]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/filter2_reinit_true-unreach-call.c_7.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.29005981902176226, 1.3038422950000002, 2.8977444090217626)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.01870275046630386, 0.07188798974999999, 0.16247872996630386)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/filter2_reinit_true-unreach-call.c_7.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/filter2_reinit_true-unreach-call.c_7.smt2" : [[(-0.01870275046630386, 0.07188798974999999, 0.16247872996630386), (-0.29005981902176226, 1.3038422950000002, 2.8977444090217626)]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/image_filter_true-unreach-call.c_2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.2732860090655129, 2.29878219675, 4.324278384434487)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.015404884927692182, 0.02206320175, 0.02872151857230782)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/image_filter_true-unreach-call.c_2.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/image_filter_true-unreach-call.c_2.smt2" : [[(0.015404884927692182, 0.02206320175, 0.02872151857230782)], [(0.2732860090655129, 2.29878219675, 4.324278384434487)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_14.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.2100759040939062, 2.4419142110000003, 5.093904326093907)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.011438531634375752, 0.0216457485, 0.03185296536562425)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_14.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_14.smt2" : [[(0.011438531634375752, 0.0216457485, 0.03185296536562425), (-0.2100759040939062, 2.4419142110000003, 5.093904326093907)]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_372.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.06989982875944245, 0.898907778, 1.7279157272405574)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.013570744969261852, 0.02042534225, 0.027279939530738144)
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_372.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/20170501-Heizmann-UltimateAutomizer/water_pid_true-unreach-call.c_372.smt2" : [[(0.013570744969261852, 0.02042534225, 0.027279939530738144)], [(0.06989982875944245, 0.898907778, 1.7279157272405574)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.10.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.17216049377931864, 2.4700686739999997, 4.767976854220681)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (15.419115053762312, 16.249093932, 17.07907281023769)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.10.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.10.smt2" : [[(0.17216049377931864, 2.4700686739999997, 4.767976854220681)], [(15.419115053762312, 16.249093932, 17.07907281023769)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.20.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.6653894481096712, 3.0577031665, 4.450016884890329)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (48.35003216662189, 49.4293237945, 50.508615422378114)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.20.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.20.smt2" : [[(1.6653894481096712, 3.0577031665, 4.450016884890329)], [(48.35003216662189, 49.4293237945, 50.508615422378114)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.01637465426829099, 2.29660216925, 4.576829684231709)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.5231262689526073, 2.6422430625, 2.7613598560473926)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.3.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.3.smt2" : [[(0.01637465426829099, 2.29660216925, 4.576829684231709), (2.5231262689526073, 2.6422430625, 2.7613598560473926)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.30.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5651360557923832, 1.10537067075, 1.6456052857076167)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (70.15862743104479, 71.00576277525, 71.85289811945522)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.30.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.30.smt2" : [[(0.5651360557923832, 1.10537067075, 1.6456052857076167)], [(70.15862743104479, 71.00576277525, 71.85289811945522)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.40.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.3654681019734876, 2.02384858775, 2.6822290735265124)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (381.51152508645174, 382.18958924475, 382.8676534030482)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.40.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.40.smt2" : [[(1.3654681019734876, 2.02384858775, 2.6822290735265124)], [(381.51152508645174, 382.18958924475, 382.8676534030482)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.50.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-0.6270481855769239, 1.321532778, 3.2701137415769237)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (440.1313577900088, 441.92624233625, 443.72112688249126)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.50.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div.c.50.smt2" : [[(-0.6270481855769239, 1.321532778, 3.2701137415769237)], [(440.1313577900088, 441.92624233625, 443.72112688249126)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.10.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (-1.7094154803528279, 1.55360213925, 4.816619758852828)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (17.03804240132682, 17.320030466, 17.602018530673178)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.10.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.10.smt2" : [[(-1.7094154803528279, 1.55360213925, 4.816619758852828)], [(17.03804240132682, 17.320030466, 17.602018530673178)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.20.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4691854592614707, 0.60184468975, 0.7345039202385294)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (56.260587056255375, 57.2292740245, 58.197960992744626)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.20.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.20.smt2" : [[(0.4691854592614707, 0.60184468975, 0.7345039202385294)], [(56.260587056255375, 57.2292740245, 58.197960992744626)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.34116130812761813, 0.49371058725, 0.6462598663723819)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.9744346678306426, 2.03455257675, 2.094670485669357)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.3.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.3.smt2" : [[(0.34116130812761813, 0.49371058725, 0.6462598663723819)], [(1.9744346678306426, 2.03455257675, 2.094670485669357)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.30.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.9229352667030308, 2.07967134125, 2.236407415796969)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (106.470669063061, 106.81842022949999, 107.16617139593899)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.30.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.30.smt2" : [[(1.9229352667030308, 2.07967134125, 2.236407415796969)], [(106.470669063061, 106.81842022949999, 107.16617139593899)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.40.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.9178681461884506, 1.027740789, 1.1376134318115496)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (329.47887001812603, 337.89001744875, 346.3011648793739)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.40.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.40.smt2" : [[(0.9178681461884506, 1.027740789, 1.1376134318115496)], [(329.47887001812603, 337.89001744875, 346.3011648793739)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.50.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (19.337420158358036, 19.48614633825, 19.63487251814196)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (534.8267966898065, 535.8134349995, 536.8000733091935)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.50.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div2.c.50.smt2" : [[(19.337420158358036, 19.48614633825, 19.63487251814196)], [(534.8267966898065, 535.8134349995, 536.8000733091935)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.10.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.34710755782313163, 0.54187485875, 0.7366421596768683)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (12.273094956550116, 12.901276281000001, 13.529457605449887)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.10.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.10.smt2" : [[(0.34710755782313163, 0.54187485875, 0.7366421596768683)], [(12.273094956550116, 12.901276281000001, 13.529457605449887)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.20.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4211627811001441, 0.57427844875, 0.7273941163998559)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (36.664131313991135, 36.926571086500005, 37.189010859008874)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.20.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.20.smt2" : [[(0.4211627811001441, 0.57427844875, 0.7273941163998559)], [(36.664131313991135, 36.926571086500005, 37.189010859008874)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.31297868045143684, 0.50514735575, 0.6973160310485632)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.9966867519038536, 2.0568366685, 2.116986585096146)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.3.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.3.smt2" : [[(0.31297868045143684, 0.50514735575, 0.6973160310485632)], [(1.9966867519038536, 2.0568366685, 2.116986585096146)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.30.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6713477531076516, 0.78871392, 0.9060800868923483)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (70.91357030734314, 71.54838615474999, 72.18320200215685)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.30.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.30.smt2" : [[(0.6713477531076516, 0.78871392, 0.9060800868923483)], [(70.91357030734314, 71.54838615474999, 72.18320200215685)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.40.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.4639826329556456, 1.62866505725, 1.7933474815443546)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (211.65120007940033, 216.23189953825, 220.81259899709966)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.40.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.40.smt2" : [[(1.4639826329556456, 1.62866505725, 1.7933474815443546)], [(211.65120007940033, 216.23189953825, 220.81259899709966)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.50.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6688640665374154, 0.7865713277499999, 0.9042785889625845)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (515.0693577464402, 528.851795219, 542.6342326915598)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.50.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/div3.c.50.smt2" : [[(0.6688640665374154, 0.7865713277499999, 0.9042785889625845)], [(515.0693577464402, 528.851795219, 542.6342326915598)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3791994412171275, 0.47845871275, 0.5777179842828726)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3555466760858065, 0.378386815, 0.4012269539141935)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1.c.smt2" : [[(0.3555466760858065, 0.378386815, 0.4012269539141935), (0.3791994412171275, 0.47845871275, 0.5777179842828726)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_1.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.35916706288038314, 0.4989883925, 0.6388097221196168)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3399953451323707, 0.35438197650000003, 0.3687686078676294)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_1.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_1.c.smt2" : [[(0.3399953451323707, 0.35438197650000003, 0.3687686078676294), (0.35916706288038314, 0.4989883925, 0.6388097221196168)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_2.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.40677369216668874, 0.46927257025, 0.5317714483333114)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.34266831005307474, 0.34872286225, 0.35477741444692523)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_2.c.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e1_2.c.smt2" : [[(0.34266831005307474, 0.34872286225, 0.35477741444692523)], [(0.40677369216668874, 0.46927257025, 0.5317714483333114)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.37887596962778153, 0.518574511, 0.6582730523722184)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.350148780653012, 2.371957078, 2.393765375346988)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2.c.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2.c.smt2" : [[(0.37887596962778153, 0.518574511, 0.6582730523722184)], [(2.350148780653012, 2.371957078, 2.393765375346988)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_1.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.34872170944663794, 0.56815807925, 0.787594449053362)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.5794802605124123, 1.59002491225, 1.6005695639875879)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_1.c.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_1.c.smt2" : [[(0.34872170944663794, 0.56815807925, 0.787594449053362)], [(1.5794802605124123, 1.59002491225, 1.6005695639875879)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_2.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3869221773905156, 0.51431278875, 0.6417034001094843)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.39592491133527646, 0.39754710925000003, 0.3991693071647236)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_2.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_2.c.smt2" : [[(0.39592491133527646, 0.39754710925000003, 0.3991693071647236), (0.3869221773905156, 0.51431278875, 0.6417034001094843)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_3.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.33356416155569807, 0.56921295275, 0.8048617439443018)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.38582962902880946, 0.407546093, 0.42926255697119053)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_3.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2_3.c.smt2" : [[(0.38582962902880946, 0.407546093, 0.42926255697119053), (0.33356416155569807, 0.56921295275, 0.8048617439443018)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_1.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.31586716904801637, 0.5342962445, 0.7527253199519837)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.40228768584064006, 0.40881875725, 0.41534982865935993)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_1.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_1.c.smt2" : [[(0.40228768584064006, 0.40881875725, 0.41534982865935993), (0.31586716904801637, 0.5342962445, 0.7527253199519837)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_2.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.36620068705504305, 0.49615037125, 0.626100055444957)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3715719726598949, 0.37574172549999996, 0.379911478340105)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_2.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_2.c.smt2" : [[(0.3715719726598949, 0.37574172549999996, 0.379911478340105), (0.36620068705504305, 0.49615037125, 0.626100055444957)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_3.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3800243316622034, 0.50626777, 0.6325112083377966)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.40598947828809756, 0.413796829, 0.4216041797119024)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_3.c.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e2a_3.c.smt2" : [[(0.40598947828809756, 0.413796829, 0.4216041797119024), (0.3800243316622034, 0.50626777, 0.6325112083377966)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_1.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3670018679487253, 0.50825398, 0.6495060920512747)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.7902256631182745, 2.8265970275, 2.8629683918817257)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_1.c.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_1.c.smt2" : [[(0.3670018679487253, 0.50825398, 0.6495060920512747)], [(2.7902256631182745, 2.8265970275, 2.8629683918817257)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_2.c.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.36346687586905757, 0.5094054285, 0.6553439811309425)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.8790774795325196, 1.9067341017500001, 1.9343907239674807)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_2.c.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/e3_2.c.smt2" : [[(0.36346687586905757, 0.5094054285, 0.6553439811309425)], [(1.8790774795325196, 1.9067341017500001, 1.9343907239674807)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/f23.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6329894019153974, 0.787622017, 0.9422546320846026)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (12.105615500670535, 12.430935005999999, 12.756254511329463)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/f23.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/f23.smt2" : [[(0.6329894019153974, 0.787622017, 0.9422546320846026)], [(12.105615500670535, 12.430935005999999, 12.756254511329463)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.125.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.125.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.125.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.175.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.175.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.175.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.25.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (347.47191231139243, 348.43301598275, 349.3941196541076)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (59.44566416734939, 61.24688695175, 63.04810973615061)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.25.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.25.smt2" : [[(59.44566416734939, 61.24688695175, 63.04810973615061)], [(347.47191231139243, 348.43301598275, 349.3941196541076)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.75.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.75.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/gaussian.c.75.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_000003_30000_1.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_000003_30000_1.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_000003_30000_1.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3000_1.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3000_1.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3000_1.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3_1.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (36.61793867545971, 37.12774791625, 37.63755715704029)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3_1.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mul_03_3_1.smt2" : [[(36.61793867545971, 37.12774791625, 37.63755715704029)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.10.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3702708014635284, 0.537383009, 0.7044952165364716)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.8321529869782416, 2.8962340025, 2.9603150180217583)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.10.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.10.smt2" : [[(0.3702708014635284, 0.537383009, 0.7044952165364716)], [(2.8321529869782416, 2.8962340025, 2.9603150180217583)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.20.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.42575315506776734, 0.56158119575, 0.6974092364322326)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (34.26601957066257, 35.063458985, 35.86089839933742)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.20.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.20.smt2" : [[(0.42575315506776734, 0.56158119575, 0.6974092364322326)], [(34.26601957066257, 35.063458985, 35.86089839933742)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3330835369049956, 0.517186697, 0.7012898570950044)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4637820614869702, 0.47337522025, 0.4829683790130298)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.3.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.3.smt2" : [[(0.4637820614869702, 0.47337522025, 0.4829683790130298), (0.3330835369049956, 0.517186697, 0.7012898570950044)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.30.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.9031733948382255, 1.04563491475, 1.1880964346617744)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (111.96732478814508, 112.943813319, 113.92030184985492)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.30.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.30.smt2" : [[(0.9031733948382255, 1.04563491475, 1.1880964346617744)], [(111.96732478814508, 112.943813319, 113.92030184985492)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.40.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (7.9554957988494435, 8.0707863975, 8.186076996150556)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (125.29809105823249, 128.68017824325, 132.06226542826752)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.40.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.40.smt2" : [[(7.9554957988494435, 8.0707863975, 8.186076996150556)], [(125.29809105823249, 128.68017824325, 132.06226542826752)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.50.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6526865160202494, 0.85025817975, 1.0478298434797504)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (424.3059498917765, 437.33445602324997, 450.36296215472345)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.50.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult1.c.50.smt2" : [[(0.6526865160202494, 0.85025817975, 1.0478298434797504)], [(424.3059498917765, 437.33445602324997, 450.36296215472345)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.10.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3447586458308908, 0.566424093, 0.7880895401691091)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (3.3534091898368543, 3.387477072, 3.4215449541631453)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.10.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.10.smt2" : [[(0.3447586458308908, 0.566424093, 0.7880895401691091)], [(3.3534091898368543, 3.387477072, 3.4215449541631453)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.20.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3498345452355005, 0.5956413775, 0.8414482097644995)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (34.88505005056936, 35.253235339499994, 35.62142062843063)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.20.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.20.smt2" : [[(0.3498345452355005, 0.5956413775, 0.8414482097644995)], [(34.88505005056936, 35.253235339499994, 35.62142062843063)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3000205580900228, 0.51762331325, 0.7352260684099772)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.834148329823557, 0.8561092425, 0.8780701551764429)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.3.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.3.smt2" : [[(0.3000205580900228, 0.51762331325, 0.7352260684099772)], [(0.834148329823557, 0.8561092425, 0.8780701551764429)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.30.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.352583077949817, 2.56141841, 2.770253742050183)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (94.39257824686246, 97.19731772575, 100.00205720463754)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.30.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.30.smt2" : [[(2.352583077949817, 2.56141841, 2.770253742050183)], [(94.39257824686246, 97.19731772575, 100.00205720463754)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.40.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.6107174621056892, 1.76355615775, 1.916394853394311)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (135.08618751496948, 136.106628573, 137.1270696310305)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.40.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.40.smt2" : [[(1.6107174621056892, 1.76355615775, 1.916394853394311)], [(135.08618751496948, 136.106628573, 137.1270696310305)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.50.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.142536474763782, 1.3425436305, 1.542550786236218)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (275.6347194011935, 283.694844577, 291.7549697528066)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.50.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/mult2.c.50.smt2" : [[(1.142536474763782, 1.3425436305, 1.542550786236218)], [(275.6347194011935, 283.694844577, 291.7549697528066)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.4.1.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.39179194430066383, 0.49107361875, 0.5903552931993361)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (73.91849344644196, 74.46576957725, 75.01304570805804)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.4.1.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.4.1.i.smt2" : [[(0.39179194430066383, 0.49107361875, 0.5903552931993361)], [(73.91849344644196, 74.46576957725, 75.01304570805804)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.1.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.41758163258028436, 0.5010067874999999, 0.5844319424197155)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (19.62076571094657, 20.4234659205, 21.22616613005343)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.1.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.1.i.smt2" : [[(0.41758163258028436, 0.5010067874999999, 0.5844319424197155)], [(19.62076571094657, 20.4234659205, 21.22616613005343)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.3.i.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.3.i.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.5.3.i.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.1.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.42629463524418076, 0.46140623975, 0.49651784425581924)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (10.95543841923239, 11.069287871, 11.18313732276761)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.1.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.1.i.smt2" : [[(0.42629463524418076, 0.46140623975, 0.49651784425581924)], [(10.95543841923239, 11.069287871, 11.18313732276761)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.2.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.45844654384005373, 0.48586971975000004, 0.5132928956599463)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (39.66956132221283, 40.402032562, 41.134503801787176)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.2.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.2.i.smt2" : [[(0.45844654384005373, 0.48586971975000004, 0.5132928956599463)], [(39.66956132221283, 40.402032562, 41.134503801787176)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.3.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4496793440064443, 0.4842968285, 0.5189143129935556)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (45.01860205165022, 46.20146492825, 47.384327804849775)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.3.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.6.3.i.smt2" : [[(0.4496793440064443, 0.4842968285, 0.5189143129935556)], [(45.01860205165022, 46.20146492825, 47.384327804849775)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.1.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.44075531484453245, 0.45160571425, 0.46245611365546757)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (7.8290588244883175, 7.91563203, 8.002205235511683)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.1.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.1.i.smt2" : [[(0.44075531484453245, 0.45160571425, 0.46245611365546757)], [(7.8290588244883175, 7.91563203, 8.002205235511683)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.2.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4449770257586257, 0.45524673825, 0.4655164507413743)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (34.032146117284086, 34.34812545975, 34.66410480221592)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.2.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.2.i.smt2" : [[(0.4449770257586257, 0.45524673825, 0.4655164507413743)], [(34.032146117284086, 34.34812545975, 34.66410480221592)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.3.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4611673634642926, 0.4730600495, 0.48495273553570745)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (77.82287299233607, 79.93494063775, 82.04700828316393)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.3.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.7.3.i.smt2" : [[(0.4611673634642926, 0.4730600495, 0.48495273553570745)], [(77.82287299233607, 79.93494063775, 82.04700828316393)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.1.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4420619646652988, 0.45324388925000003, 0.4644258138347013)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (17.12465528817936, 17.50102584475, 17.87739640132064)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.1.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.1.i.smt2" : [[(0.4420619646652988, 0.45324388925000003, 0.4644258138347013)], [(17.12465528817936, 17.50102584475, 17.87739640132064)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.2.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.44637957784978904, 0.48711608175, 0.5278525856502109)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (44.65286360529061, 45.1221937045, 45.591523803709386)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.2.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.2.i.smt2" : [[(0.44637957784978904, 0.48711608175, 0.5278525856502109)], [(44.65286360529061, 45.1221937045, 45.591523803709386)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.3.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.46814479716484025, 0.48001544025, 0.4918860833351597)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (64.8863018169981, 66.68829156525, 68.4902813135019)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.3.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/newton.8.3.i.smt2" : [[(0.46814479716484025, 0.48001544025, 0.4918860833351597)], [(64.8863018169981, 66.68829156525, 68.4902813135019)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.125.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.125.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.125.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.175.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.175.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.175.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.25.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.25.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.25.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.75.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.75.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin.c.75.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.10.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.10.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.10.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.125.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.125.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.125.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.15.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.15.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.15.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.175.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.175.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.175.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.2.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (14.35231540706163, 14.563001171, 14.77368693493837)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.2.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.2.smt2" : [[(14.35231540706163, 14.563001171, 14.77368693493837)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.20.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.20.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.20.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.25.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.25.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.25.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.5.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (75.80534053111599, 76.32656733375, 76.84779413638402)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.5.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.5.smt2" : [[(75.80534053111599, 76.32656733375, 76.84779413638402)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.75.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.75.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sin2.c.75.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sine.1.0.i.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.5313630607170712, 1.54790706675, 1.5644510727829286)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (6.752598968368702, 6.88532807825, 7.018057188131297)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sine.1.0.i.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sine.1.0.i.smt2" : [[(1.5313630607170712, 1.54790706675, 1.5644510727829286)], [(6.752598968368702, 6.88532807825, 7.018057188131297)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.10.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (52.99191075967577, 53.47231511975, 53.95271947982423)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.10.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.10.smt2" : [[(52.99191075967577, 53.47231511975, 53.95271947982423)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.15.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (53.074548411453335, 53.5227010465, 53.97085368154667)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.15.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.15.smt2" : [[(53.074548411453335, 53.5227010465, 53.97085368154667)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (9.18533399062411, 9.351230187, 9.51712638337589)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (15.264915065766196, 15.360652605750001, 15.456390145733806)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.2.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.2.smt2" : [[(9.18533399062411, 9.351230187, 9.51712638337589)], [(15.264915065766196, 15.360652605750001, 15.456390145733806)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.20.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (44.24434450586016, 44.7905400375, 45.33673556913984)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.20.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.20.smt2" : [[(44.24434450586016, 44.7905400375, 45.33673556913984)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.25.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (44.10691992172465, 44.6732945365, 45.23966915127535)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.25.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.25.smt2" : [[(44.10691992172465, 44.6732945365, 45.23966915127535)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.5.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (52.576608810445, 53.4180153275, 54.259421844555)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.5.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/sqrt.c.5.smt2" : [[(52.576608810445, 53.4180153275, 54.259421844555)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s14052.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.45593058946570053, 0.47397703625, 0.49202348303429944)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.3450528526759937, 2.40122865375, 2.4574044548240064)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s14052.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s14052.smt2" : [[(0.45593058946570053, 0.47397703625, 0.49202348303429944)], [(2.3450528526759937, 2.40122865375, 2.4574044548240064)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s24300.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.8084978713716988, 1.8434111125, 1.878324353628301)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (3.1574934755798147, 3.21251481525, 3.2675361549201853)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s24300.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s24300.smt2" : [[(1.8084978713716988, 1.8434111125, 1.878324353628301)], [(3.1574934755798147, 3.21251481525, 3.2675361549201853)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s29304.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.44913593702569465, 0.45125480625, 0.4533736754743053)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (3.9891639613782703, 4.056471043, 4.1237781246217295)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s29304.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr10_c1_s29304.smt2" : [[(0.44913593702569465, 0.45125480625, 0.4533736754743053)], [(3.9891639613782703, 4.056471043, 4.1237781246217295)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr1_c1_s10392.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.43907340357293406, 0.45669020075, 0.47430699792706593)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.505183008750171, 2.5350712745, 2.564959540249829)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr1_c1_s10392.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr1_c1_s10392.smt2" : [[(0.43907340357293406, 0.45669020075, 0.47430699792706593)], [(2.505183008750171, 2.5350712745, 2.564959540249829)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16641.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4387865332912273, 0.4647726205, 0.4907587077087727)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.5686826070010698, 2.59914312775, 2.6296036484989305)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16641.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16641.smt2" : [[(0.4387865332912273, 0.4647726205, 0.4907587077087727)], [(2.5686826070010698, 2.59914312775, 2.6296036484989305)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16867.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4439423998830415, 0.45324491, 0.4625474201169585)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.392335892870344, 2.45251592475, 2.5126959566296563)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16867.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s16867.smt2" : [[(0.4439423998830415, 0.45324491, 0.4625474201169585)], [(2.392335892870344, 2.45251592475, 2.5126959566296563)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s26769.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.440750933654507, 0.46335688225, 0.48596283084549297)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.442160046952333, 2.49876513825, 2.555370229547667)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s26769.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r3_vr5_c1_s26769.smt2" : [[(0.440750933654507, 0.46335688225, 0.48596283084549297)], [(2.442160046952333, 2.49876513825, 2.555370229547667)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r8_vr10_c1_s5590.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.46564401343869244, 0.47499570825000004, 0.48434740306130764)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (12.644187989590698, 13.02934261275, 13.414497235909302)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r8_vr10_c1_s5590.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v3_r8_vr10_c1_s5590.smt2" : [[(0.46564401343869244, 0.47499570825000004, 0.48434740306130764)], [(12.644187989590698, 13.02934261275, 13.414497235909302)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr10_c1_s15708.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr10_c1_s15708.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr10_c1_s15708.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s13516.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.502860809986281, 0.5175219925, 0.5321831750137189)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (104.81090852488333, 109.08194876325, 113.35298900161666)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s13516.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s13516.smt2" : [[(0.502860809986281, 0.5175219925, 0.5321831750137189)], [(104.81090852488333, 109.08194876325, 113.35298900161666)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s19145.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5059489228555957, 0.51889554625, 0.5318421696444043)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (34.56671764771159, 34.7664491635, 34.96618067928841)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s19145.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr1_c1_s19145.smt2" : [[(0.5059489228555957, 0.51889554625, 0.5318421696444043)], [(34.56671764771159, 34.7664491635, 34.96618067928841)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13195.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5088538566682657, 0.533969412, 0.5590849673317344)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (81.19381267842101, 83.908979403, 86.624146127579)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13195.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13195.smt2" : [[(0.5088538566682657, 0.533969412, 0.5590849673317344)], [(81.19381267842101, 83.908979403, 86.624146127579)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13679.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (595.9978967615069, 597.16533992975, 598.332783097993)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13679.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r10_vr5_c1_s13679.smt2" : [[(595.9978967615069, 597.16533992975, 598.332783097993)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s14516.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s14516.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s14516.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s25268.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s25268.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r15_vr10_c1_s25268.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5379.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.47095480486670405, 0.49543830075, 0.519921796633296)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (16.670482501385962, 17.300893826, 17.931305150614037)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5379.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5379.smt2" : [[(0.47095480486670405, 0.49543830075, 0.519921796633296)], [(16.670482501385962, 17.300893826, 17.931305150614037)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5996.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.470028067009965, 0.480089098, 0.49015012899003496)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (10.887529754520985, 11.229804887250001, 11.572080019979017)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5996.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s5996.smt2" : [[(0.470028067009965, 0.480089098, 0.49015012899003496)], [(10.887529754520985, 11.229804887250001, 11.572080019979017)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s7194.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5674206564054443, 0.58916139675, 0.6109021370945558)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (22.500301610501243, 23.39021716625, 24.280132721998758)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s7194.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr10_c1_s7194.smt2" : [[(0.5674206564054443, 0.58916139675, 0.6109021370945558)], [(22.500301610501243, 23.39021716625, 24.280132721998758)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s14623.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.1541400258464942, 1.6350045229999999, 2.1158690201535055)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (16.270290935436435, 16.6868499685, 17.103409001563563)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s14623.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s14623.smt2" : [[(1.1541400258464942, 1.6350045229999999, 2.1158690201535055)], [(16.270290935436435, 16.6868499685, 17.103409001563563)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s15604.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5175627529336772, 0.5346742977500001, 0.551785842566323)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (10.949416324355433, 11.042555609, 11.135694893644569)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s15604.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s15604.smt2" : [[(0.5175627529336772, 0.5346742977500001, 0.551785842566323)], [(10.949416324355433, 11.042555609, 11.135694893644569)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s16138.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3905431194726773, 0.5235075865, 0.6564720535273226)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (16.022276657145795, 16.4865288925, 16.950781127854206)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s16138.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr1_c1_s16138.smt2" : [[(0.3905431194726773, 0.5235075865, 0.6564720535273226)], [(16.022276657145795, 16.4865288925, 16.950781127854206)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s24018.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4717174588017765, 0.49291995775, 0.5141224566982235)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (28.4245950531149, 29.0369469535, 29.6492988538851)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s24018.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s24018.smt2" : [[(0.4717174588017765, 0.49291995775, 0.5141224566982235)], [(28.4245950531149, 29.0369469535, 29.6492988538851)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s2800.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (356.59967788091507, 356.7925542875, 356.985430694085)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (85.22511788694119, 88.756719144, 92.28832040105881)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s2800.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s2800.smt2" : [[(85.22511788694119, 88.756719144, 92.28832040105881)], [(356.59967788091507, 356.7925542875, 356.985430694085)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s9855.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4700256435954218, 0.492223541, 0.5144214384045781)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (22.540110728659073, 23.0952136065, 23.650316484340927)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s9855.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v5_r5_vr5_c1_s9855.smt2" : [[(0.4700256435954218, 0.492223541, 0.5144214384045781)], [(22.540110728659073, 23.0952136065, 23.650316484340927)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s15994.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.516623156165624, 0.57457771225, 0.6325322683343759)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (327.44698644232324, 338.35665180374997, 349.2663171651767)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s15994.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s15994.smt2" : [[(0.516623156165624, 0.57457771225, 0.6325322683343759)], [(327.44698644232324, 338.35665180374997, 349.2663171651767)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s18160.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s18160.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s18160.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s30410.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s30410.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr10_c1_s30410.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s10576.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s10576.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s10576.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s22787.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s22787.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s22787.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s703.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s703.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr1_c1_s703.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s14336.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6395080727127737, 0.6861400055, 0.7327719382872263)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (208.24214576083207, 214.87822495125, 221.5143041416679)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s14336.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s14336.smt2" : [[(0.6395080727127737, 0.6861400055, 0.7327719382872263)], [(208.24214576083207, 214.87822495125, 221.5143041416679)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s29826.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (50.943967826867905, 50.97216719875, 51.000366570632096)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (128.37562732845072, 129.7335649325, 131.09150253654929)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s29826.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s29826.smt2" : [[(50.943967826867905, 50.97216719875, 51.000366570632096)], [(128.37562732845072, 129.7335649325, 131.09150253654929)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s8938.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5455780230391472, 0.5531024335, 0.5606268439608528)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (69.59383081170387, 71.3976323855, 73.20143395929614)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s8938.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r12_vr5_c1_s8938.smt2" : [[(0.5455780230391472, 0.5531024335, 0.5606268439608528)], [(69.59383081170387, 71.3976323855, 73.20143395929614)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s18654.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s18654.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s18654.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s3680.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s3680.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s3680.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s8773.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s8773.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr10_c1_s8773.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s23882.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (159.15230779828076, 159.33945358925, 159.52659938021927)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s23882.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s23882.smt2" : [[(159.15230779828076, 159.33945358925, 159.52659938021927)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s24331.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s24331.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr1_c1_s24331.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s25451.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s25451.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s25451.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s2807.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s2807.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s2807.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s4772.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s4772.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r17_vr5_c1_s4772.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s10625.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (9.681650014851687, 9.69465297675, 9.707655938648312)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (83.90704156253699, 86.31565155825, 88.724261553963)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s10625.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s10625.smt2" : [[(9.681650014851687, 9.69465297675, 9.707655938648312)], [(83.90704156253699, 86.31565155825, 88.724261553963)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s24535.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.48973805633350714, 0.51242810125, 0.5351181461664929)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (28.956646862380193, 29.4602913305, 29.963935798619804)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s24535.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s24535.smt2" : [[(0.48973805633350714, 0.51242810125, 0.5351181461664929)], [(28.956646862380193, 29.4602913305, 29.963935798619804)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s32506.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (417.3838055511199, 417.499500705, 417.6151958588801)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (202.10363707728575, 208.25905493675, 214.41447279621426)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s32506.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr10_c1_s32506.smt2" : [[(202.10363707728575, 208.25905493675, 214.41447279621426)], [(417.3838055511199, 417.499500705, 417.6151958588801)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s22845.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.7111977436309496, 0.7163798775, 0.7215620113690504)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (260.98852298588474, 271.77810200075, 282.5676810156152)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s22845.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s22845.smt2" : [[(0.7111977436309496, 0.7163798775, 0.7215620113690504)], [(260.98852298588474, 271.77810200075, 282.5676810156152)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s4574.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (3.843794397804911, 3.86450311675, 3.8852118356950887)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (98.30918016307866, 101.61278214000001, 104.91638411692135)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s4574.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr1_c1_s4574.smt2" : [[(3.843794397804911, 3.86450311675, 3.8852118356950887)], [(98.30918016307866, 101.61278214000001, 104.91638411692135)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s14675.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.49795867679058425, 0.5330911, 0.5682235232094158)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (72.83971279457973, 74.7410635375, 76.64241428042027)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s14675.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s14675.smt2" : [[(0.49795867679058425, 0.5330911, 0.5682235232094158)], [(72.83971279457973, 74.7410635375, 76.64241428042027)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s19694.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (151.25450305089788, 151.2932265855, 151.33195012010214)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (302.1489023718875, 323.65257852675, 345.1562546816125)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s19694.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s19694.smt2" : [[(151.25450305089788, 151.2932265855, 151.33195012010214)], [(302.1489023718875, 323.65257852675, 345.1562546816125)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s3582.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4882329963140556, 0.521475029, 0.5547170616859444)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (31.002254777542944, 31.6772976155, 32.35234045345705)
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s3582.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/griggio/fmcad12/test_v7_r7_vr5_c1_s3582.smt2" : [[(0.4882329963140556, 0.521475029, 0.5547170616859444)], [(31.002254777542944, 31.6772976155, 32.35234045345705)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_double-main.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.42163653799997974, 0.446963829, 0.4722911200000202)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.037702364965367254, 0.0473805255, 0.057058686034632745)
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_double-main.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_double-main.smt2" : [[(0.037702364965367254, 0.0473805255, 0.057058686034632745)], [(0.42163653799997974, 0.446963829, 0.4722911200000202)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_float-main.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4189387229919234, 0.43261689000000003, 0.44629505700807665)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.027525423119634032, 0.028288625249999998, 0.029051827380365963)
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_float-main.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/nan_float-main.smt2" : [[(0.027525423119634032, 0.028288625249999998, 0.029051827380365963)], [(0.4189387229919234, 0.43261689000000003, 0.44629505700807665)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/newton_3_6_false-unreach-call-main.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (57.75119129911082, 58.8336877805, 59.91618426188918)
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/newton_3_6_false-unreach-call-main.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/newton_3_6_false-unreach-call-main.smt2" : [[(57.75119129911082, 58.8336877805, 59.91618426188918)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/sine_4_true-unreach-call-main.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/sine_4_true-unreach-call-main.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/ramalho/esbmc/sine_4_true-unreach-call-main.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/O220-024.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (13.765739524235766, 13.775728466, 13.785717407764235)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.33516795539841987, 0.34157848550000003, 0.3479890156015802)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/O220-024.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/O220-024.smt2" : [[(0.33516795539841987, 0.34157848550000003, 0.3479890156015802)], [(13.765739524235766, 13.775728466, 13.785717407764235)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/angle_between_2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.46262281009130074, 0.47125413525000004, 0.47988546040869934)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (604.2172356752653, 625.47049053075, 646.7237453862347)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/angle_between_2.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/angle_between_2.smt2" : [[(0.46262281009130074, 0.47125413525000004, 0.47988546040869934)], [(604.2172356752653, 625.47049053075, 646.7237453862347)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_add.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4149374491774548, 0.46385148775, 0.5127655263225452)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4550236241767556, 0.459362765, 0.4637019058232444)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_add.smt2" : [[1, 0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_add.smt2" : [[(0.4550236241767556, 0.459362765, 0.4637019058232444), (0.4149374491774548, 0.46385148775, 0.5127655263225452)]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_mult.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.43753023486593834, 0.4396891, 0.44184796513406166)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.9139509807408427, 0.9369297735, 0.9599085662591572)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_mult.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/assoc_mult.smt2" : [[(0.43753023486593834, 0.4396891, 0.44184796513406166)], [(0.9139509807408427, 0.9369297735, 0.9599085662591572)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_3.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4091319651461642, 0.451956126, 0.49478028685383585)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.21722983282562267, 0.21880683275, 0.22038383267437736)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_3.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_3.smt2" : [[(0.21722983282562267, 0.21880683275, 0.22038383267437736)], [(0.4091319651461642, 0.451956126, 0.49478028685383585)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_5.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.3509239090847971, 0.49848615274999997, 0.6460483964152028)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.061665342331754, 2.0897554375, 2.117845532668246)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_5.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_5.smt2" : [[(0.3509239090847971, 0.49848615274999997, 0.6460483964152028)], [(2.061665342331754, 2.0897554375, 2.117845532668246)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_6.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.43406519512013314, 0.470348084, 0.5066309728798668)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.1805992011337976, 2.21575963475, 2.2509200683662023)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_6.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/average_6.smt2" : [[(0.43406519512013314, 0.470348084, 0.5066309728798668)], [(2.1805992011337976, 2.21575963475, 2.2509200683662023)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cancel_2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.42316796029991566, 0.429000441, 0.43483292170008436)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.07237090905049347, 0.07313680175, 0.07390269444950652)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cancel_2.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cancel_2.smt2" : [[(0.07237090905049347, 0.07313680175, 0.07390269444950652)], [(0.42316796029991566, 0.429000441, 0.43483292170008436)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cases_2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4086765060837505, 0.44807541025, 0.48747431441624944)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.017860697916012573, 0.040049512, 0.06223832608398743)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cases_2.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/cases_2.smt2" : [[(0.017860697916012573, 0.040049512, 0.06223832608398743)], [(0.4086765060837505, 0.44807541025, 0.48747431441624944)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/exp_3_precision.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4211659577342785, 0.44406435825, 0.4669627587657215)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (2.061353666123654, 2.10698968625, 2.152625706376346)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/exp_3_precision.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/exp_3_precision.smt2" : [[(0.4211659577342785, 0.44406435825, 0.4669627587657215)], [(2.061353666123654, 2.10698968625, 2.152625706376346)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_1.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (1.2970031782327163, 1.3384196145, 1.3798360507672838)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_1.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_1.smt2" : [[(1.2970031782327163, 1.3384196145, 1.3798360507672838)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_2.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.6074767944164019, 0.61536759025, 0.6232583860835981)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.9135311914763693, 0.9447985365, 0.9760658815236307)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_2.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/guarded_div_2.smt2" : [[(0.6074767944164019, 0.61536759025, 0.6232583860835981)], [(0.9135311914763693, 0.9447985365, 0.9760658815236307)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/incorrect_reordering.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.44316634185455495, 0.4740904115, 0.505014481145445)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (18.088214005282882, 18.354585444, 18.62095688271712)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/incorrect_reordering.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/incorrect_reordering.smt2" : [[(0.44316634185455495, 0.4740904115, 0.505014481145445)], [(18.088214005282882, 18.354585444, 18.62095688271712)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/protected_divide.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.5161162069349784, 0.5213718887500001, 0.5266275705650217)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (8.113064278178971, 8.22732165325, 8.341579028321028)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/protected_divide.smt2" : [[0], [1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/protected_divide.smt2" : [[(0.5161162069349784, 0.5213718887500001, 0.5266275705650217)], [(8.113064278178971, 8.22732165325, 8.341579028321028)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/jfs_lf_fail_fast_smart_seeds/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/riposte_floats_are_not_rational.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.11977159361150277, 0.12294847125, 0.12612534888849722)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/riposte_floats_are_not_rational.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/riposte_floats_are_not_rational.smt2" : [[(0.11977159361150277, 0.12294847125, 0.12612534888849722)], [(900.0, 900.0, 900.0)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/scale_1.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.417654601458862, 0.44779276025000003, 0.47793091904113805)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.1237852215826231, 0.1279654885, 0.13214575541737691)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/scale_1.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/scale_1.smt2" : [[(0.1237852215826231, 0.1279654885, 0.13214575541737691)], [(0.417654601458862, 0.44779276025000003, 0.47793091904113805)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/underflow_1.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.41058129754898026, 0.443934963, 0.47728862845101977)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.21873402333157768, 0.225332643, 0.23193126266842232)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/underflow_1.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/underflow_1.smt2" : [[(0.21873402333157768, 0.225332643, 0.23193126266842232)], [(0.41058129754898026, 0.443934963, 0.47728862845101977)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/user_rule_1.smt2" : 
+INFO:MainThread: index 0 unknown
+INFO:MainThread: index 1 unknown
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Computed bounds (900.0, 900.0, 900.0) contain max time 900.0
+INFO:MainThread: Returning computed_bounds (900.0, 900.0, 900.0)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/user_rule_1.smt2" : [[0, 1]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/user_rule_1.smt2" : [[(900.0, 900.0, 900.0), (900.0, 900.0, 900.0)]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/zeros_count_1.smt2" : 
+INFO:MainThread: index 0 sat
+INFO:MainThread: index 1 sat
+INFO:MainThread: Getting execution time for index 0
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.4214205760467611, 0.431894201, 0.44236782595323887)
+INFO:MainThread: Getting execution time for index 1
+INFO:MainThread: Using max_time to bound: 900.0
+INFO:MainThread: Returning computed_bounds (0.02821909752195755, 0.02998535975, 0.031751621978042446)
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/zeros_count_1.smt2" : [[1], [0]]
+INFO:MainThread: Ranking on "QF_FP/schanda/spark/zeros_count_1.smt2" : [[(0.02821909752195755, 0.02998535975, 0.031751621978042446)], [(0.4214205760467611, 0.431894201, 0.44236782595323887)]]
+INFO:MainThread: Recorded win for /home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/mathsat5/output_merged.yml
+INFO:MainThread: Validating result_infos
+INFO:MainThread: Validation complete
+INFO:MainThread: Writing "/home/dan/dev/jfs-fse-2019-artifact/data/experiments/merged/qf_fp/portfolio_jfs_mathsat5/output_merged.yml"

@@ -1,0 +1,5 @@
+# Vim swap files
+*.swp
+*.swo
+scripts/Dockerfiles/*.patched
+*.pyc

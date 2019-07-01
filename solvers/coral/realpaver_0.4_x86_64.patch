@@ -1,0 +1,13 @@
+--- a/configure	2004-08-06 03:07:15.000000000 -0700
++++ b/configure	2018-01-17 22:43:11.112060140 -0800
+@@ -4269,9 +4269,9 @@
+ 
+ 
+ 
+ case "$host" in
+-i?86-*-linux*)
++i?86-*-linux*|x86_64-*-linux*)
+ 
+ cat >>confdefs.h <<\_ACEOF
+ #define SYSTEM_LINUX_IX86 1
+ _ACEOF

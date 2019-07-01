@@ -1,0 +1,17 @@
+--- a/z3core.py	2018-02-09 09:29:07.241992766 +0000
++++ b/z3core.py	2018-02-09 09:28:55.702061461 +0000
+@@ -65,11 +65,10 @@
+ 
+ def _to_ascii(s):
+   if isinstance(s, str):
+-    try: 
+-      return s.encode('ascii')
++    try:
++      return s.encode('utf-8')
+     except:
+-      # kick the bucket down the road.  :-J
+-      return s
++      raise Exception('Invalid utf-8')
+   else:
+     return s
+ 

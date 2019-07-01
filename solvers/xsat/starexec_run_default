@@ -1,0 +1,22 @@
+#!/bin/bash
+# This script runs XSat on the given input.
+# The benchmark input is given as a filename as is the first argument given to the solver.
+
+# FSE-PAPER: HACK. Change working directory
+BIN_DIR=$( cd ${BASH_SOURCE[0]%/*} ; echo "$PWD" )
+cd "${BIN_DIR}"
+
+export PATH=$PWD/python/bin/:$PATH
+export MYPYTHON=$PWD/python/bin/python
+export PYTHONINC=$PWD/python/include/python2.7
+export PYTHONLIB=$PWD/python/lib
+export LD_LIBRARY_PATH=$PWD/python/lib
+export PYTHONPATH=$PWD/python/
+
+
+make compile IN=$1
+if [ $? -eq 0 ]; then
+ $MYPYTHON xsat.py --bench 
+else
+  exit 1
+fi

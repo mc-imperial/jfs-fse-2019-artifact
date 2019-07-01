@@ -1,0 +1,166 @@
+NOTICE TO USER:
+
+Please, read this carefully. By downloading the Software you accept all the
+terms and conditions of this Agreement.
+
+1DEFINITIONS
+
+When used in this Agreement, the following terms shall have the respective
+meanings indicated, such meanings to be applicable to both the singular and
+plural forms of the terms defined:
+
+“Agreement” means this licence agreement in its latest version as publish on
+the Internet Website.
+
+“Effective Date” means the date of the download of the Software by the
+Licensee.
+
+“Internet Website” means the website where the Software can be downloaded.
+
+“Licensee” means You who have downloaded the Software or the legal entity for
+the activity of which you Use the Software.
+
+“Licensor” or “CEA-LIST” means Commissariat à l’Energie Atomique (CEA), a
+French state-owned research entity with a scientific, technical or industrial
+activity duly organised under the laws of France and having its registered
+office located at 25 rue Leblanc, Bâtiment « Le Ponant D » - 75015 Paris,
+FRANCE, and declared at the Paris Register of Commerce and Trade (“Registre du
+Commerce et des Sociétés de Paris”) under the following registration number:
+R.C.S. Paris B 775 685 019.
+
+“Parties” means the Licensee and the Licensor
+
+“Software” means the software named “ColibryCOLIBRI” in source code or binary
+code, composed of (a) all of the contents of the files, (ii) related
+explanatory written materials or files (“Documentation”); and (iii) Software
+setup files and code samples (if any); and (b) upgrades, modified versions,
+updates, additions of the Software if any. COLIBRI is a constraint librairy
+designed by CEA with the support of IRSN
+
+“Use” or “Using” means to load, install, copy, run and the Software in
+accordance with the Documentation for test, evaluation, educational purposes or
+internal research purposes.
+
+2RIGHTS GRANTED
+
+The Licensee is granted a worldwide, non-transferable, non-exclusive right to
+Use the Software in binary code only, for test, evaluation, educational
+purposes or internal research purposes only and for the duration identified in
+article 7.
+
+The right to Use includes:
+
+The rights to install the Software in binary code; The right to use the
+Software according to the terms and conditions of the Agreement; The right to
+make permanent or temporary copies of the Software for test, evaluation,
+educational purposes or internal research purposes and notably for the need of
+having a backup copy; Any Use of the backup copy is ruled by the Agreement.
+Any other use and notably industrial or commercial uses is not authorised. The
+Agreement notably does not grant the Licensee the right to sublicense,
+distribute, publish, transmit communicate the Software nor to modify, adapt,
+translate, arrange, correct or make any other modification or create derivative
+works based upon the Software.
+
+The Licensee shall not alter or remove any copyright or other proprietary
+notice that appears on or in the Software. Any copies that the Licensee is
+permitted to make pursuant to this Agreement must contain the same copyright
+and other proprietary notices that appear on or in the Software. No rights is
+granted on the Software in source code.
+
+The Licensor may decide in its sole discretion to propose on the Internet
+Website some modified versions, updates or additions to the Software to be
+downloaded. The Agreement apply to such elements downloaded by the Licensor.
+
+3PRICE
+
+Use according to the terms and conditions of the Agreement is free of charge
+and no royalty or licensing fees shall be paid by the Licensee.
+
+4INTELLECTUAL PROPERTY RIGHTS
+
+The Software is protected by Intellectual Property Rights, including without
+limitation by Copyright Law and international treaty provisions.
+
+No proprietary rights in and to the Software is transferred to the Licensee by
+the Agreement. The Licensee acknowledges and agrees that the Licensor retains
+all copyrights and other proprietary rights in and to the Software.
+
+The structure, organization and code of the Software are the valuable trade
+secrets and confidential information of the Licensor. The Licensee agrees not
+to decompile, disassemble reverse-engineer or otherwise attempt to discover the
+source code of the Software.
+
+No rights is granted on any CEA’s trademarks.
+
+5WARRANTY
+
+The Software is being delivered to the Licensee “AS IS” and the Licensor makes
+no warranty as to its Use or performance, nore to the non-infringement of any
+third party’s rights. The Software is a Beta version, which the Licensee
+acknowledges.
+
+The Licensor does not and cannot warrant the performance or results the
+Licensee may obtain by Using the Software. The entire risk arising out of Use
+of the Software remains with the Licensee.
+
+The Licensor gives no warranty, express or implied, that (i) the Software will
+be of satisfactory quality, suitable for any particular purpose or for any
+particular use under specified conditions, notwithstanding that such purpose,
+use, or conditions may be known to the Licensor; or (ii) that the Software will
+operate error free or without interruption or that any errors will be
+corrected.
+
+No assistance no maintenance service is due by the Licensor to the Licensee
+according to the Agreement about the Software.
+
+6LIABILITY
+
+6.1Liability of the Licensor In no event will the Licensor be liable for any
+direct or indirect damage even if the Licensor has been advised of the
+possibility of any loss, damage, claims or costs or for any claim by any third
+party.
+
+6.2Liability of the Licensee Any use of the Software that would not be
+compliant with the terms and conditions of the Agreement should be a
+counterfeit that justifies any lawsuits by the Licensor against the Licensee.
+
+7DURATION :
+
+This Agreement shall become effective on the Effective Date and shall continue
+in full force after the Effective Date for the period of protection by IP
+rights of the Software unless sooner terminated pursuant to Article
+“Termination”.
+
+8TERMINATION
+
+This Agreement may be terminated by full right by the Licensor should the
+Licensee not respect the terms and conditions of the Agreement and should not
+correct the failure within a period of thirty ( 30 ) days as of the date of
+issue of notification of cancellation made by the Licensor by any means. In
+this case, termination of the Agreement shall take effect at the end of the
+above-mentioned deadline or at a later date if decided otherwise in the letter
+of notification. In such a Case, the Licensor shall stop to Use the Software
+and destroy any copy of the Software.
+
+9APPLICABLE LAW
+
+This Agreement shall be governed by and interpreted in accordance with the laws
+of France
+
+10DISPUTE RESOLUTION
+
+Any dispute shall be raised to the PARIS Court which shall be the sole court of
+competent jurisdiction.
+
+11ENTIRE AGREEMENT
+
+This Agreement constitute the entire understanding between the Licensor and the
+Licensee concerning the subject matter hereof and supersede and replace all
+prior discussions, agreements and representations, whether oral or written and
+whether or not executed. Further, the terms and conditions of this Agreement
+shall prevail notwithstanding any variance with the pre-printed terms and
+conditions of any purchase order, invoice, acknowledgement or any other such
+form or document even if signed by both Parties hereto; to the extend in
+variance such pre-printed terms and conditions shall be null and void and of no
+force and effect. In the event of inconsistencies between this Agreement and
+any of the annexes, the Parties agree that the Agreement shall prevail.

@@ -1,0 +1,17 @@
+; Start decls (2)
+(declare-fun end_ackermann!1 () (_ BitVec 32))
+(declare-fun start_ackermann!0 () (_ BitVec 32))
+; End decls
+; Start constraints (7)
+(assert (not (fp.isNaN ((_ to_fp 8 24) start_ackermann!0))))
+(assert (not (fp.eq ((_ to_fp 8 24) start_ackermann!0) ((_ to_fp 8 24) end_ackermann!1))))
+(assert (not (fp.isNaN ((_ to_fp 8 24) end_ackermann!1))))
+(assert (not (fp.gt ((_ to_fp 8 24) start_ackermann!0) ((_ to_fp 8 24) end_ackermann!1))))
+(assert (not (fp.lt ((_ to_fp 8 24) start_ackermann!0) ((_ to_fp 8 24) #x3f800000))))
+(assert (not (fp.gt ((_ to_fp 8 24) end_ackermann!1) ((_ to_fp 8 24) #x3f800054))))
+(assert (let ((a!1 (not (fp.eq ((_ to_fp 8 24) (bvadd #x00000001 start_ackermann!0))
+                       ((_ to_fp 8 24) end_ackermann!1)))))
+  (not (not a!1))))
+; End constraints
+(check-sat)
+(exit)
