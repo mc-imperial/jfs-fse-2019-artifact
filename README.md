@@ -3,6 +3,14 @@
 This directory contains files that supplement the JFS
 paper by describing our data in more detail.
 
+Note that this git repository relies on git-lfs. You will
+need to install this in order to retrieve the large files
+in the respository. Once you have git-lfs installed run
+
+```
+git-lfs clone https://github.com/mc-imperial/jfs-fse-2019-artifact
+```
+
 # `data`
 
 This directory contains the experiment data, solver
