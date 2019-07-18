@@ -37,6 +37,7 @@ shift
 TOOL_OPTS=( \
   --max-exec-time 900 \
   --annotate \
+  --true-type-fonts \
 )
 TOOL_OPTS+=("$@")
 

@@ -23,6 +23,7 @@ TOOL="${SMT_RUNNER_ROOT}/tools/${TOOL_NAME}"
 TOOL_OPTS=( \
   --max-exec-time 900 \
   --mode time \
+  --true-type-fonts \
 )
 
 
