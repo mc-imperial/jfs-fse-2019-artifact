@@ -27,3 +27,13 @@ def writeYaml(openFile, data):
     as_yaml = yaml.dump(data, default_flow_style=False, Dumper=_dumper)
     openFile.write(as_yaml)
     return
+
+def set_font_type(font_type):
+    assert isinstance(font_type, int)
+    import matplotlib
+    _logger.info('Setting global font type to {}'.format(font_type))
+    matplotlib.rcParams['pdf.fonttype'] = font_type
+    matplotlib.rcParams['ps.fonttype'] = font_type
+
+def set_true_type_font():
+    set_font_type(42)

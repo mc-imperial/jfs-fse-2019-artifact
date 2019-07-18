@@ -43,11 +43,18 @@ def main(args):
         default=None,
         help="Force plot use supplied title",
     )
+    parser.add_argument('--true-type-fonts',
+        default=False,
+        action='store_true'
+    )
 
     DriverUtil.parserAddLoggerArg(parser)
     pargs = parser.parse_args(args)
     DriverUtil.handleLoggerArgs(pargs, parser)
     _logger = logging.getLogger(__name__)
+
+    if pargs.true_type_fonts:
+        smtrunner.util.set_true_type_font()
 
     try:
         _logger.info('Loading "{}"'.format(pargs.result_infos.name))

@@ -497,6 +497,10 @@ def main(args):
     global _fail_count
     parser = argparse.ArgumentParser(description=__doc__)
     DriverUtil.parserAddLoggerArg(parser)
+    parser.add_argument('--true-type-fonts',
+        default=False,
+        action='store_true'
+    )
     parser.add_argument('result_infos', nargs='+', help='Input YAML files')
     parser.add_argument('--title', default="", type=str)
     parser.add_argument('--legend-name-map',dest='legend_name_map', default=None, type=str)
@@ -563,6 +567,9 @@ def main(args):
       if os.path.exists(pargs.svg):
         logging.error('Refusing to overwrite {}'.format(pargs.svg))
         return 1
+
+    if pargs.true_type_fonts:
+        smtrunner.util.set_true_type_font()
 
     index_to_raw_result_infos = []
     index_to_file_name = []

@@ -99,6 +99,10 @@ def main(args):
         default=0.0,
         type=float
     )
+    parser.add_argument('--true-type-fonts',
+        default=False,
+        action='store_true'
+    )
 
     pargs = parser.parse_args(args)
     DriverUtil.handleLoggerArgs(pargs, parser)
@@ -107,6 +111,9 @@ def main(args):
     if pargs.max_exec_time is None:
         _logger.error('--max-exec-time must be specified')
         return 1
+
+    if pargs.true_type_fonts:
+        smtrunner.util.set_true_type_font()
 
     index_to_raw_result_infos = []
     index_to_file_name = []
