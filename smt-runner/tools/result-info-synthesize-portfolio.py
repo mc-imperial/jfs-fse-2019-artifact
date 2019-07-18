@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright (c) 2017, REDACTED
+# Copyright (c) 2017, Daniel Liew
 # This file is covered by the license in LICENSE.txt
 # vim: set sw=4 ts=4 softtabstop=4 expandtab:
 """

@@ -319,7 +319,7 @@ class PythonPsUtilBackend(BackendBaseClass):
                             'unlimited' if self.stackLimit == 0 else self.stackLimit))
                     # HACK: Use subprocess.Popen and then create the psutil wrapper
                     # around it because it returns the wrong exit code.
-                    # This is a workaround for https://redacted
+                    # This is a workaround for https://github.com/giampaolo/psutil/issues/960
                     self._subprocess_process = subprocess.Popen(cmdLineCopy,
                                                  cwd=self.workingDirectory,
                                                  stdout=stdoutLogFile,
